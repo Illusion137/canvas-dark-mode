@@ -37,6 +37,14 @@ body, .header-bar, .ui-tabs-anchor, .quiz-submission, .ig-header, .accessible-to
     color: #C7CDD1 !important;
 }
 
+p {
+    color: #fff
+}
+
+li {
+    color: #fff
+}
+
 .module-sequence-footer-content, .ic-app-crumbs, #breadcrumbs, .course-list-unpublished-course-row {
     background: #1f1f1f !important;
 }
@@ -56,7 +64,7 @@ body, .header-bar, .ui-tabs-anchor, .quiz-submission, .ig-header, .accessible-to
 }
 
 a {
-    color: #fff !important;
+    color: #95b7ff !important;
     text-decoration: none !important;
 }
 
